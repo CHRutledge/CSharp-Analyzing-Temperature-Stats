@@ -1,0 +1,7 @@
+C:\Users\Heath\Desktop\CIS 150 - C#\Temperatures\Temperatures\obj\Debug\Temperatures.csprojAssemblyReference.cache
+C:\Users\Heath\Desktop\CIS 150 - C#\Temperatures\Temperatures\obj\Debug\Temperatures.csproj.CoreCompileInputs.cache
+C:\Users\Heath\Desktop\CIS 150 - C#\Temperatures\Temperatures\bin\Debug\Temperatures.exe.config
+C:\Users\Heath\Desktop\CIS 150 - C#\Temperatures\Temperatures\bin\Debug\Temperatures.exe
+C:\Users\Heath\Desktop\CIS 150 - C#\Temperatures\Temperatures\bin\Debug\Temperatures.pdb
+C:\Users\Heath\Desktop\CIS 150 - C#\Temperatures\Temperatures\obj\Debug\Temperatures.exe
+C:\Users\Heath\Desktop\CIS 150 - C#\Temperatures\Temperatures\obj\Debug\Temperatures.pdb
